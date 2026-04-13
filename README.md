@@ -43,7 +43,7 @@ Dois modelos foram avaliados:
 
 - **Modelo em Árvore – RandomForestClassifier**  
   - Modelo baseado em árvores de decisão, robusto a variáveis em diferentes escalas.  
-  - Hiperparâmetros ajustados manualmente (`max_depth=10`, `min_samples_leaf=1`, `min_samples_split=5`, `n_estimators=600`).  
+  - Hiperparâmetros final (`max_depth=10`, `min_samples_leaf=1`, `min_samples_split=5`, `n_estimators=600`).  
   - Melhor acurácia média em validação cruzada (10 folds): **0.8373**  
 
 ---
